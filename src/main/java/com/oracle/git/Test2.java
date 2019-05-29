@@ -6,6 +6,8 @@ public class Test2 {
 		// TODO Auto-generated method stub
 
 		System.out.println("张飞的提交;");
+		
+		System.out.println("张飞的二次提交");
 	}
 
 }
